@@ -9,4 +9,4 @@
  * Sagar - 
  * Susan - Demonstrate Installation and set up process.
  * Saroj -
- * Jing  - 
+ * Jing  - Demonstrate Architecture of Storm
